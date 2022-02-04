@@ -1,2 +1,2 @@
 # AR-mendel
-periodic table in augmented reality
+periodic table in augmented reality made in Unity
